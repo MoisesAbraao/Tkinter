@@ -1,6 +1,6 @@
 #Tkinter Fenster
 
-from tkinter import *
+from Tkinter import *
 
 global rechnen
 
